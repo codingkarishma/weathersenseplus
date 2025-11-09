@@ -1,0 +1,19 @@
+.theme-toggle {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  background: transparent;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color: #333;
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.app.dark .theme-toggle {
+  color: #fff;
+}
+
+.theme-toggle:hover {
+  transform: rotate(20deg) scale(1.1);
+}

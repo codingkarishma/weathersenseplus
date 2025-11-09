@@ -1,0 +1,15 @@
+.analytics-card {
+  background: linear-gradient(145deg, rgba(255,255,255,0.3), rgba(255,255,255,0.1));
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  backdrop-filter: blur(12px);
+  color: var(--text-color, #222);
+  margin-top: 2rem;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+  transition: all 0.4s ease-in-out;
+}
+
+[data-theme="dark"] .analytics-card {
+  background: linear-gradient(145deg, rgba(10,10,20,0.7), rgba(30,30,40,0.5));
+  color: #f1f1f1;
+}
