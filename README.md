@@ -47,25 +47,12 @@ A fully cloud-based, serverless system that’s fast, lightweight, and globally 
 
 ---
 
-## 🧠 Team Roles
-- **Member 1:** React Frontend & UI  
-- **Member 2:** API Integration (Axios + OpenWeather)  
-- **Member 3:** Firebase Database & Hosting  
-- **Member 4:** Data Visualization (Recharts)
-
----
 
 ## 📸 Results
 - **Live Weather Dashboard:** Displays temperature, humidity, and AQI  
 - **Analytics Page:** Shows last few readings using line charts  
 - **Firebase Storage:** Maintains a historical weather record  
 
-*(Screenshots to be added after deployment)*
-
 ---
-
-## 💬 Credits
-Developed by **Team WeatherSense+ (IIT BHU)**  
-Powered by **React, Firebase, and OpenWeather API**
-
+Deployed link:- https://weathersenseplus.web.app/
 License: MIT © 2025 WeatherSense+
